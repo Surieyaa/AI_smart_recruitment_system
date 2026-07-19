@@ -1,0 +1,7 @@
+instance/recruitment.db
+uploads/*
+reports/*
+__pycache__/
+*.pyc
+!uploads/.gitkeep
+!reports/.gitkeep
